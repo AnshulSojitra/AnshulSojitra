@@ -29,8 +29,8 @@
 - REST APIs
 
 ### Database
-- MongoDB
-- Mongoose
+- MySQL
+- Sequelize
 
 ### Tools & Platforms
 - Git & GitHub
