@@ -66,10 +66,6 @@ A full-stack web application built using React, Node.js, Express, and MongoDB.
 ⭐️ *If you like my work, consider giving a star to my repositories!*
 
 
-- 👋 Hi, I’m @AnshulSojitra
-- 👀 I’m interested in every technology
-- 🌱 I’m currently persuing bca
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
